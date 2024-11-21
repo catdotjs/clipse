@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "\033[0;31mClipse is installed to your system! Please follow the guide at \033[4;37mhttps://github.com/savedra1/clipse?tab=readme-ov-file#set-up\033[0;31m to finish setting it up.\033[0m"

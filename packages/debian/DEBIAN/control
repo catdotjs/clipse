@@ -1,0 +1,6 @@
+Package: clipse
+Version: 1.1.0
+Maintainer: catdotjs <catdotjs@gmail.com>
+Depends: wl-clipboard | xclip
+Homepage: https://github.com/savedra1/clipse
+Description: Configurable TUI clipboard manager for Unix.
